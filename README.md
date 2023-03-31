@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://info.flagcounter.com/zAR6"><img src="https://s11.flagcounter.com/countxl/zAR6/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Top+250+Flags/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <!--
 **macosjohn/macosjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
